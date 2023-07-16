@@ -283,7 +283,7 @@ Sunflower
 Sword
 Table
 Terracotta
-Tnt
+TNT
 Torch
 Totem
 Trader
